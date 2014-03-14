@@ -1,7 +1,7 @@
-#---------------------
-# Wolk Software 2013
+# Wolk Software
 
 # Script para backup de bases mysql.
+2013-2014
 
 Atualmente o script trabalha com 2 arquivos, um script executável e um script de configuração.
 O script de configuração, deve ser colocado em /etc/.
